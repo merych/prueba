@@ -1,4 +1,0 @@
-# Hola!
-
-Mi nombres es Mery :);
-"Bienvenido"
